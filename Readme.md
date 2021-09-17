@@ -4,13 +4,11 @@
 
 Consiste no tratamento de DataFrame com alguns erros, que são identificados a partir de uma analise exploratória, e posteriormente tratados utilizando recursos do python.
 
-Contem:
+Links:
 
-Arquivo pré processado
+Datasets pré processamento: https://drive.google.com/drive/folders/1mUFsf2w0FZ4KEjZO-GtnYLPewL9HWGAi?usp=sharing
 
-Script do processo de tratamento
-
-Arquivo pós processado.
+Datasets pós processamento: https://drive.google.com/drive/folders/1z_y9DMYwsc8M3byWObPqhLqNxSxBKN6n?usp=sharing
 
 
 
