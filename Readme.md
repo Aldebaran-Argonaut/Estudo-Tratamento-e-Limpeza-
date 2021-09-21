@@ -1,5 +1,4 @@
 # **ETL em Datasets com python**
-![ETL & PYTHON](https://images.app.goo.gl/YiufJ5BMKcF8N4ch9)
 
 ##  **Descrição:**
 
