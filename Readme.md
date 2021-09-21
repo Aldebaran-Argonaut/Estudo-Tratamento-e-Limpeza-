@@ -6,9 +6,9 @@ Consiste no processo de ETL em Datasets com alguns erros, identificados a partir
 
 Links:
 
-[Datasets pré processamento] (https://drive.google.com/drive/folders/1mUFsf2w0FZ4KEjZO-GtnYLPewL9HWGAi?usp=sharing)
+[Datasets pré processamento](https://drive.google.com/drive/folders/1mUFsf2w0FZ4KEjZO-GtnYLPewL9HWGAi?usp=sharing)
 
-[Datasets pós processamento] (https://drive.google.com/drive/folders/1z_y9DMYwsc8M3byWObPqhLqNxSxBKN6n?usp=sharing)
+[Datasets pós processamento](https://drive.google.com/drive/folders/1z_y9DMYwsc8M3byWObPqhLqNxSxBKN6n?usp=sharing)
 
 
 
